@@ -2,6 +2,8 @@
 
 Rust build dependency that helps you build and link native libraries.
 
+**Note: this repo is no longer used, please visit the original repo for public updates**
+
 ### Requirements
 
  - `cmake` must be installed and available in the system path.
